@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Vanilla cake</title>
+    <meta charset="UTF-8">
+      </head>
+      <body>
+    <h1>Vanilla Recipe</h1>
+    <p>recipe for a moist vanilla cake</p>  
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Butter</li>
+      <li>Sugar</li>
+      <li>Eggs $ vanilla beans</li>
+      <li>Self-raising flour</li>
+      </ul> 
+<h2>Instructions</h2>
+<ol>
+  <li>cream butter and sugar</li>
+  <li>add eggs & vanilla pods to above mixture and stir</li>
+  <li>add in the flour,mix if mix is not flowy add some milt bit by bit</li>
+  <li>line baking tin,pour in mixture and bake in the oven</li>
+</ol>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Easy to follow recipe">
+</body>
+</html>
+
+

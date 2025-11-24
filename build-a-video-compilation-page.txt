@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Jomo Kenyatta University of Agriculture and Technology</h1>
+    <p>Welcome to the official JKUAT video compilation page. Here you'll find a collection of curated videos that showcase campus life, academics, and innovation at Jomo Kenyatta University of Agriculture and Technology. Whether you're a current student, alumnus, or future applicant, there's something here for you!</p>
+    <section>
+    <h2>Campus Life</h2>
+    <p>
+Take a virtual walk through the JKUAT campus and explore the vibrant student experience. From hostels and cafeterias to clubs and events, this video highlights the energy and diversity that make student life at JKUAT truly unique.
+</p>
+    <iframe src="https://youtu.be/gTGe8jixxCw?si=IrWq20Yk5J6R3qCt" title="JKUAT Campus Life Tour" height="315" width="560"> </iframe>
+    </section>
+    <section>
+    <h2>Student Innovation</h2>
+    <p>
+Discover the brilliant ideas and inventions by JKUAT students. This video showcases tech projects, agricultural innovations, and startup pitches from the university’s top minds — proving that JKUAT is a hub of creativity and real-world problem-solving.
+</p>
+    <iframe src="https://youtu.be/rfX7fYwVd0U?si=wT0JRmhGOA3B69fR" title="JKUAT Innovation and Tech Showcase" height="351" width="560"> </iframe>
+    </section>
+    <section>
+    <h2>Graduation Ceremony</h2>
+    <p>
+Celebrate the achievements of JKUAT graduates in this heartwarming highlight reel. The video captures speeches, performances, and emotional moments from the most important day in every student's academic journey.
+</p>
+    <iframe src="https://youtu.be/KkMwZHvVv3I?si=4XPrLyOBNIenvx89"
+    title="Graduation Highlights" height="315" width="560"> </iframe>
+    </section>
+    </main>
+</body>
+
+</html>
+
+
+

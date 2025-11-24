@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HTML Audio and Video Lab</title>
+  <h1>Handmade Business</h1>
+</head>
+<body>
+<section>
+  <h2>50 Handmade Business Ideas that will change your life in 2025</h2>
+  <video width="640"controls>
+  <source src="movie.mp4" 
+  type="video/mp4"
+  ></video>
+</section>
+<section>
+  <h2>a horse</h2>
+  <audio controls
+  src="handmade.ogg"
+  loop
+  >
+  </audio>
+</section>
+</body>
+</html>
+
+
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta
+    name="description"
+    content="At Whimsy Travel Agency , we turn your dream destinations into unforgettable experiences. Whether you're seeking thrilling adventures, relaxing getaways, cultural explorations, or romantic escapes — we've got you covered."
+    />
+    </head>
+    <body>
+      <h1>🌍 Travel Opportunities for Every Kind of Explorer</h1>
+      <p>
+At Whimsy Travel Agency, we offer carefully curated travel packages designed to match your lifestyle, budget, and dreams. Whether you're after romance, adventure, or relaxation — we've got the perfect escape for you!
+</p>
+      <h2>Packages</h2>
+      <p>
+✨ Weekend Getaways
+💕 Honeymoon & Romantic Escapes
+👨‍👩‍👧‍👦 Family Holiday Packages
+🏞️ Adventure & Safari Tours
+🏝️ Luxury Getaways
+🌐 International Tours
+Want custom packages for group travel, birthdays, or corporate retreats? We've got you covered. 🌟
+📞 Book now and let your next adventure begin!
+</p>
+ <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+ </ul>
+<h2>Top Itineraries</h2>
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="colosseo">
+  </a>
+  <figcaption>Colosseum in Rome</figcaption>
+</figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">
+<img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="alps">
+</a>
+<figcaption>The Colosseum in Rome</figcaption>
+</figure>
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="sea">
+  </a>
+  <figcaption>Sea and beach view</figcaption>
+</figure>
+    </body>
+  </html>
+
+
+

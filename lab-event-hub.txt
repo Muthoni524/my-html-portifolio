@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li>
+                <a href="#upcoming-events">Upcoming Events</a>
+                </li>
+            <li>
+                <a href="#past-events">Past Events</a>
+                </li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article>
+            <h3>Sustainable Research & Innovation Conference 2025</h3>
+            <p>
+                A leading annual JKUAT event showcasing innovations in AI, digital transformation, and sustainable technologies driving global change.
+                Date:October 3,2025
+            </p>
+        </article>
+        <article>
+            <h3>Scientific,Technological & Industrialization Conference</h3>
+            <p>
+                A university-wide research and tech forum bringing together innovators, scholars, and startups to promote solutions for sustainable development.
+                Date:November 20,2025
+            </p>
+        </article>
+    </section>
+    <section id="past-events">
+<h2>Past Events</h2>
+<article>
+    <h3>Inter-Varsity Artificial Intelligence Hackathon 2024</h3>
+    <p>A hackathon with 24 public & private universities participating,themed "Harnessing AI for Real-World Applications" 
+        Date:November 12,2024</p>
+    <img src="https://i0.wp.com/www.businessquest.co.ke/wp-content/uploads/2024/11/IMG_9178-1024x683-1.jpg?fit=1024%2C683&ssl=1" alt="JKUAT students participating in the 2024 Inter-Varsity AI Hackathon">
+</article>
+<article>
+    <h3>Tech Expo 12.0</h3>
+    <p>Annual student-driven event showcasing student innvations.
+        Date:November 18,2024
+    </p>
+    <img src="https://www.nacosti.go.ke/wp-content/uploads/2022/11/JKUAT-TECH-EXPO1-1024x683.jpg" alt="Students showcasing innovations at JKUAT Tech Expo 12.0">
+</article>
+    </section>
+</main>
+</body>
+
+</html>
+
+
+
